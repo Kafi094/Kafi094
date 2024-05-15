@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Kafi&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Kafi094&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
@@ -65,12 +65,12 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/Md-Abdul-kafi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kafi&theme=radical" alt="Kafi's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kafi094&theme=radical" alt="Kafi's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Md-Abdul-kafi"><img alt="Kafi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kafi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Md-Abdul-kafi"><img alt="Kafi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kafi094&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
 
 <br/>
