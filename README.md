@@ -1,4 +1,4 @@
-![I am Md Abdul Kafi](https://github.com/Kafi094/Md-Abdul-Kafi/blob/main/code.png)
+![I am Md Abdul Kafi](https://github.com/Kafi094/Kafi094/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Md Abdul Kafi</h1>
 <h3 align="center">Programmer | Web Designer </h3>
